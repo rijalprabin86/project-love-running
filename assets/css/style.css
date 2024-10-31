@@ -20,6 +20,10 @@ font-family: 'Lato';
 header {
     background-color: lightcoral;
 }
+
+h1 {
+    font-family: Oswald;
+}
 /* Main content */
 main {
     background-color: lightblue;
